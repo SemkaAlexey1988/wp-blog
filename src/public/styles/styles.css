@@ -1,0 +1,56 @@
+
+
+* {
+        	margin: 0;
+        	padding: 0;
+        }
+
+        html {
+        	height: 100%;
+        }
+
+        header, nav, section, main, article, aside, footer {
+        	display: block;
+        }
+
+        body {
+         
+        }
+img{
+max-width:100%;
+height:auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+::-webkit-input-placeholder {color:#2e343a; font-size: 14px; font-style: italic;}
+::-moz-placeholder          {color:#2e343a; font-size: 14px; font-style: italic;}/* Firefox 19+ */
+:-moz-placeholder           {color:#2e343a; font-size: 14px; font-style: italic;}/* Firefox 18- */
+:-ms-input-placeholder      {color:#2e343a; font-size: 14px; font-style: italic;}
+
+
+textarea::-webkit-input-placeholder {color:#2e343a; font-size: 16px; font-style: normal;}
+textarea::-moz-placeholder          {color:#2e343a; font-size: 16px; font-style: normal;}/* Firefox 19+ */
+textarea:-moz-placeholder           {color:#2e343a; font-size: 16px; font-style: normal;}/* Firefox 18- */
+textarea:-ms-input-placeholder      {color:#2e343a; font-size: 16px; font-style: normal;}
+
+/*media*/
+
+
+ @media screen and (min-width:300px) and (max-width:980px) {
+
+
+}
+          
